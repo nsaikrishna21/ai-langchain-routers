@@ -14,3 +14,12 @@ numpy
 
 #Validation
 pydantic
+
+#high-performance web framework for building APIs with Python
+fastapi[standard]
+
+#ASGI (Asynchronous Server Gateway Interface) web server implementation for Python
+uvicorn[standard]
+
+#Anthropic Integration
+langchain-anthropic
